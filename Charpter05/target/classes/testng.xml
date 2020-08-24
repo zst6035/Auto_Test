@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="testsuite">
+    <test name="test01">
+        <classes>
+            <class name="com.bjsxt.test.Test01"></class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.bjsxt.config.ExtentTestNGIReporterListener" />
+    </listeners>
+</suite>

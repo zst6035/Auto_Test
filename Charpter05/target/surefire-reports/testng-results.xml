@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="33" started-at="2020-08-24T02:20:03Z" finished-at="2020-08-24T02:20:03Z">
+    <groups>
+    </groups>
+    <test name="test01" duration-ms="33" started-at="2020-08-24T02:20:03Z" finished-at="2020-08-24T02:20:03Z">
+      <class name="com.bjsxt.test.Test01">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.bjsxt.test.Test01@1d251891]" name="test01" duration-ms="5" started-at="2020-08-24T10:20:03Z" finished-at="2020-08-24T10:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.bjsxt.test.Test01@1d251891]" name="test02" duration-ms="2" started-at="2020-08-24T10:20:03Z" depends-on-methods="com.bjsxt.test.Test01.test01" finished-at="2020-08-24T10:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- com.bjsxt.test.Test01 -->
+    </test> <!-- test01 -->
+  </suite> <!-- testsuite -->
+</testng-results>

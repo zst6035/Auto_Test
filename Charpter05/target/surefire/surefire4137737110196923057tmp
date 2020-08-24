@@ -1,0 +1,6 @@
+#surefire
+#Mon Aug 24 10:20:01 CST 2020
+user.dir=D\:\\java_interface\\testng\\Auto_Test\\Charpter05
+net.sourceforge.cobertura.datafile=target/cobertura/cobertura.ser
+localRepository=D\:\\maven\\repository
+basedir=D\:\\java_interface\\testng\\Auto_Test\\Charpter05
